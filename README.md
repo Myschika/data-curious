@@ -21,7 +21,8 @@
   - <h2> Tech skills<h2> 
 
   
-<h2> Certifications<h2> 
+<b>Certifications</b>
+love
 
 
 
