@@ -1,37 +1,29 @@
-<h1>Hi, I'm Myschika! <br/><a <a href="https://www.linkedin.com/in/myschikahaywood">Business Intelligence Analyst/Data Analyst</a> 
+## 👋 Hi, I'm Myschika
+🚀 Data Analyst | BI Enthusiast | Finance & Investment Specialist  
 
-<h2>👨‍💻 Data Analyst Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
- 
-  - <h2> Tech skills<h2> 
-
+### 🔹 Tech Skills
+- **Programming:** SQL, Python
+- **Data Tools:** Power BI, Tableau, Excel
+- **Version Control:** Git, GitHub
   
-<b>Certifications</b>
-love
+
+### 📌 Featured Projects
+📊 **[Zomato](https://github.com/Myschika/BI-Analyst-Projects)**  
+🔹 *Analyzed the business performance of restaurants and customers registered in the service provided by Zomato, a restaurant aggregator and food delivery company.*  
+🔹 **Tech Stack:** Tableau 
 
 
 
-<h2> Write a bit about your background.<h2> 
-  
-<h2> Fun facts <h2> 
-  I once a marathon
-  
-<h2> Outsourcing projects- I am open to connecting and colloberate on projects.<h2> 
+📈 **[Superstore Business Analytics](https://github.com/Myschika/BI-Analyst-Projects)**  
+🔹 *Used the data set from Superstore, an e-commerce company website to turn the event logs into business metrics.*  
+🔹 **Tech Stack:** Excel  
+
+
+
+ 📈 **[The Manhattan Vacation Rental Market Analysis ](https://github.com/Myschika/BI-Analyst-Projects)**  
+🔹 *Analyzed the Airbnb data from the NYC area to gain insights on which property types to invest in.* 
+🔹 **Tech Stack:** Excel  
 
 
 
