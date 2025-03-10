@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Myschika
-🚀 Data Analyst | BI Enthusiast | Finance & Investment Specialist  
+🚀 Data Analyst | BI Enthusiast | Finance & Operations Specialist  
 
 
 ### 🔹 Tech Skills
@@ -23,7 +23,8 @@
 
  📈 **[The Manhattan Vacation Rental Market Analysis ](https://github.com/Myschika/BI-Analyst-Projects)**  
 🔹 *Analyzed the Airbnb data from the NYC area to gain insights on which property types to invest in.* 
-🔹 **Tech Stack:** Excel  
+🔹 **Tech Stack:** Excel   
+
 
 
 
