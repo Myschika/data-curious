@@ -10,7 +10,11 @@
 
 ### 📌 Featured Projects
 
-📊 **[Student Habits vs Academic Performance](https://github.com/Myschika/Exam-scores/blob/main/README.md)**  
+📊 **[A Deep Dive into the Top 50 Exercises](https://github.com/Myschika/BI-Analyst-Projects)**  
+🔹 *This Tableau project analyzed the estimated calorie burn from beginner-level exercises, comparing workouts that require equipment to those that do not.*  
+🔹 **Tech Stack:** Tableau 
+
+📊 **[Student Habits vs Academic Performance](https://github.com/Myschika/BI-Analyst-Projects)**  
 🔹 *Analyzed the connection between student lifestyle habits and academic performance using Tableau.*  
 🔹 **Tech Stack:** Tableau 
 
