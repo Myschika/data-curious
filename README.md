@@ -9,14 +9,18 @@
   
 
 ### 📌 Featured Projects
+
+📊 **[Student Habits vs Academic Performance](https://github.com/Myschika/Exam-scores/blob/main/README.md)**  
+🔹 *Analyzed the connection between student lifestyle habits and academic performance using Tableau.*  
+🔹 **Tech Stack:** Tableau 
+
 📊 **[Zomato](https://github.com/Myschika/BI-Analyst-Projects)**  
 🔹 *Analyzed the business performance of restaurants and customers registered in the service provided by Zomato, a restaurant aggregator and food delivery company.*  
 🔹 **Tech Stack:** Tableau 
 
 
-
 📈 **[Superstore Business Analytics](https://github.com/Myschika/BI-Analyst-Projects)**  
-🔹 *Used the data set from Superstore, an e-commerce company website to turn the event logs into business metrics.*  
+🔹 *Used the data set from Superstore, an e-commerce company website, to turn the event logs into business metrics.*  
 🔹 **Tech Stack:** Excel  
 
 
